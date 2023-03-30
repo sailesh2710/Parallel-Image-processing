@@ -1,14 +1,6 @@
 /*
   Basic Image Processing Library using OpenMp
   Task : Sequential Image blurring operation in C language on png images
-
-  Team Trident 
-  Rushikesh Korde 2017BTECS00053
-  Saurabh Zade 2017BTECS00077 
-  Rahul Sonone 2017BTECS00103
-
-
-
 */
 #include <stdlib.h>
 #include <stdio.h>
